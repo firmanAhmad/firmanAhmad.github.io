@@ -192,7 +192,7 @@ blockquote {
 }
 #contact {
     width: 100%;
-    background-color: RGBA(8, 7, 7, 0.92);
+    background-color: ;
 }
 
 #contact .btn-primary {
@@ -248,7 +248,7 @@ footer {
 }
 .contact-sec h2 {
     font-size: 28px;
-    color: #fff;
+    color: rgb(5, 5, 5);
     font-weight: 600;
     padding: 15px 0px;
 }
@@ -274,7 +274,7 @@ footer {
 }
 .contact-sec a {
     color: #FFF;
-    background-color: RGBA(174, 142, 142, 0.7);
+    background-color: black;
     display: inline-block;
     padding: 16px 34px;
     font-size: 18px;
